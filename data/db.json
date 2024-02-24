@@ -1,0 +1,20 @@
+{
+    "currencies": [
+      { "id": 1, "currencyCode": "USD", "currencyName": "US Dollar", "exchangeRate": 1.0 },
+      { "id": 2, "currencyCode": "EUR", "currencyName": "Euro", "exchangeRate": 0.85 },
+      { "id": 3, "currencyCode": "JPY", "currencyName": "Japanese Yen", "exchangeRate": 110.0 },
+      { "id": 4, "currencyCode": "GBP", "currencyName": "British Pound", "exchangeRate": 0.73 },
+      { "id": 5, "currencyCode": "AUD", "currencyName": "Australian Dollar", "exchangeRate": 1.32 },
+      { "id": 6, "currencyCode": "CAD", "currencyName": "Canadian Dollar", "exchangeRate": 1.25 },
+      { "id": 7, "currencyCode": "CHF", "currencyName": "Swiss Franc", "exchangeRate": 0.92 },
+      { "id": 8, "currencyCode": "CNY", "currencyName": "Chinese Yuan", "exchangeRate": 6.45 },
+      { "id": 9, "currencyCode": "INR", "currencyName": "Indian Rupee", "exchangeRate": 75.0 },
+      { "id": 10, "currencyCode": "BRL", "currencyName": "Brazilian Real", "exchangeRate": 5.2 },
+      { "id": 11, "currencyCode": "MXN", "currencyName": "Mexican Peso", "exchangeRate": 20.5 },
+      { "id": 12, "currencyCode": "SEK", "currencyName": "Swedish Krona", "exchangeRate": 8.5 },
+      { "id": 13, "currencyCode": "SGD", "currencyName": "Singapore Dollar", "exchangeRate": 1.38 },
+      { "id": 14, "currencyCode": "NZD", "currencyName": "New Zealand Dollar", "exchangeRate": 1.47 },
+      { "id": 15, "currencyCode": "ZAR", "currencyName": "South African Rand", "exchangeRate": 15.0 }
+    ]
+  }
+  
